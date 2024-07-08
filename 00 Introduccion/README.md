@@ -6,7 +6,7 @@ Este repositorio está diseñado como un curso progresivo para enseñar los fund
 
 - Teoría: Aquí tendrás acceso a explicaciones detalladas y percepciones que te ayudarán a comprender los conceptos básicos de cada unidad. El contenido teórico está elaborado para proporcionar una base sólida en lógica de programación, asegurando que entiendas el 'por qué' detrás del 'cómo'.
 
-- Ejercicios: Para reforzar la teoría, cada unidad incluye ejercicios prácticos. Estos están diseñados para desafiar tu comprensión y permitirte aplicar lo que has aprendido de manera práctica. Completar estos ejercicios ayudará a consolidar tu conocimiento y mejorar tus habilidades de resolución de problemas en programación.
+- Ejercicios: Para reforzar la teoría, cada unidad incluye ejercicios prácticos. Estos están diseñados para desafiar tu comprensión y permitirte aplicar lo que has aprendido de manera práctica. Completar estos ejercicios ayudará a consolidar tu conocimiento y mejorar tus habilidades de resolución de problemas en programación. Se incluyen soluciones a los ejercicios por si te atascas!
 
 Ya seas un principiante que busca iniciarse en la programación o un programador experimentado que busca refrescar y expandir su conocimiento de construcciones lógicas, este curso está estructurado para proporcionar un camino de aprendizaje completo. ¡Sumérgete y comienza tu viaje hacia el dominio de la lógica de programación!
 _______
