@@ -1,5 +1,6 @@
 # Logic
-This repository is designed as a progressive course to teach the fundamentals of programming logic, moving from basic concepts to more complex topics.
+This repository is designed as a progressive course to teach the fundamentals of programming logic, moving from basic concepts to more complex topics. Throughout the course, students will learn to solve problems using control structures, functions, and data structures. By the end of the course, participants will have a solid understanding of programming principles and will be able to apply this knowledge to develop efficient and effective solutions.
+
 ___________________________________________________________
 
 
